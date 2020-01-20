@@ -1,6 +1,6 @@
 # Metadata for your course
 
-title: # a name for your Learning Lab course
+title: lab-starter-template
 tagline: # a short description for your Learning Lab course, displayed on the course catalog
 description: # a longer description for your Learning Lab course, displayed on the course's landing page
 
@@ -9,7 +9,7 @@ description: # a longer description for your Learning Lab course, displayed on t
 # This will be used when the repository is crated for each individual learner
 
 template:
-  name:     # This is a repository name
+  name:     lab-starter-template
   repo:     # blah blah
 
 # `before` block
